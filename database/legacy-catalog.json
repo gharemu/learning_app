@@ -1,0 +1,2418 @@
+{
+    "courses": [
+        {
+            "id": "g-001",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "ऋग्वेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-002",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "यजुर्वेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-003",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "सामवेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-004",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "अथर्ववेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-005",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "वेदांग",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-006",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "उपवेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-007",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "ब्राह्मण ग्रंथ",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-008",
+            "department": 0,
+            "group": "1.1 वैदिक शास्त्र",
+            "title": "आरण्यक",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-009",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "सांख्य दर्शन",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-010",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "योग दर्शन",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-011",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "वेदान्त",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-012",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "न्याय दर्शन",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-013",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "वैशेषिक दर्शन",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-014",
+            "department": 0,
+            "group": "1.2 दर्शन शास्त्र",
+            "title": "मीमांसा",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-015",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "भगवद्गीता",
+            "system": "gurukul",
+            "description": "Read a Sanskrit verse, explore its meaning, and reflect through a chapter quiz.",
+            "chapters": [
+                {
+                    "id": "gita-2-47",
+                    "pdf": "assets\/materials\/gita-2-47.pdf",
+                    "ppt": "assets\/materials\/gita-2-47.pptx",
+                    "title": "Action and responsibility · Bhagavad Gita 2.47",
+                    "free": true,
+                    "body": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥२.४७॥",
+                    "hindi": "तुम्हारा अधिकार अपने कर्म करने में है, उनके फल को अपने नियंत्रण में मानने में नहीं। केवल फल की इच्छा को कर्म का कारण मत बनाओ, और कर्म न करने की प्रवृत्ति से भी मत जुड़ो।\n\nअभ्यास: पढ़ाई का समय और मेहनत तुम्हारे हाथ में हैं। परिणाम कई कारणों पर निर्भर करता है। आज के लिए एक ऐसा लक्ष्य लिखो जिसे तुम अपने प्रयास से पूरा कर सकते हो।",
+                    "english": "Your responsibility lies in doing your work; its outcome is not entirely yours to command. Do not make the reward your only reason for acting, and do not become attached to avoiding action.\n\nPractice: You can choose your study time and effort. Results depend on several factors. Write one goal for today that you can achieve through your own effort.",
+                    "source": "https:\/\/www.gitasupersite.iitk.ac.in\/dv\/bhagavadgita\/2.47",
+                    "questions": [
+                        {
+                            "prompt": "What does the verse encourage?",
+                            "options": [
+                                "Avoid all action",
+                                "Act responsibly without attachment to results",
+                                "Control every outcome",
+                                "Work only for rewards"
+                            ],
+                            "answer": 1,
+                            "explanation": "The verse links action with responsibility and warns against both attachment to outcomes and inaction."
+                        },
+                        {
+                            "prompt": "Which study goal focuses on action within your control?",
+                            "options": [
+                                "Guarantee first rank",
+                                "Ensure everyone praises me",
+                                "Revise one chapter for 30 minutes",
+                                "Never face a difficult question"
+                            ],
+                            "answer": 2,
+                            "explanation": "A planned period of revision is an action you can take; rank and others’ reactions are not fully under your control."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "g-016",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "रामायण",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-017",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "महाभारत",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-018",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "पुराण",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-019",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "धर्मशास्त्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-020",
+            "department": 0,
+            "group": "1.3 धर्म एवं पुराण शास्त्र",
+            "title": "नीति शास्त्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-021",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "वैदिक ज्योतिष",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-022",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "KP Astrology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-023",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "नाड़ी ज्योतिष",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-024",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "प्रश्न शास्त्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-025",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "मुहूर्त शास्त्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-026",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "अंक ज्योतिष",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-027",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "हस्तरेखा",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-028",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "मुखाकृति विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-029",
+            "department": 0,
+            "group": "1.4 ज्योतिष शास्त्र",
+            "title": "रत्न विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-030",
+            "department": 0,
+            "group": "1.5 वास्तु शास्त्र",
+            "title": "गृह वास्तु",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-031",
+            "department": 0,
+            "group": "1.5 वास्तु शास्त्र",
+            "title": "Commercial Vastu",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-032",
+            "department": 0,
+            "group": "1.5 वास्तु शास्त्र",
+            "title": "Industrial Vastu",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-033",
+            "department": 0,
+            "group": "1.5 वास्तु शास्त्र",
+            "title": "Temple Vastu",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-034",
+            "department": 0,
+            "group": "1.5 वास्तु शास्त्र",
+            "title": "भूमि ऊर्जा विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-035",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "चरक संहिता",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-036",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "सुश्रुत संहिता",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-037",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "पंचकर्म",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-038",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "Herbal Science",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-039",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "पंचगव्य",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-040",
+            "department": 0,
+            "group": "1.6 आयुर्वेद शास्त्र",
+            "title": "प्राकृतिक चिकित्सा",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-041",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "योग",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-042",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "प्राणायाम",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-043",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "ध्यान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-044",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "कुंडलिनी",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-045",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "मंत्र विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-046",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "यज्ञ विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-047",
+            "department": 0,
+            "group": "1.7 योग एवं अध्यात्म",
+            "title": "कर्मकांड",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-048",
+            "department": 0,
+            "group": "1.8 तंत्र शास्त्र",
+            "title": "मंत्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-049",
+            "department": 0,
+            "group": "1.8 तंत्र शास्त्र",
+            "title": "यंत्र",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-050",
+            "department": 0,
+            "group": "1.8 तंत्र शास्त्र",
+            "title": "तंत्र साधना",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-051",
+            "department": 0,
+            "group": "1.8 तंत्र शास्त्र",
+            "title": "ऊर्जा विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-052",
+            "department": 0,
+            "group": "1.8 तंत्र शास्त्र",
+            "title": "ध्वनि विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-053",
+            "department": 1,
+            "group": "2.1 प्राचीन युद्ध विज्ञान",
+            "title": "धनुर्वेद",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-054",
+            "department": 1,
+            "group": "2.1 प्राचीन युद्ध विज्ञान",
+            "title": "तलवार कला",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-055",
+            "department": 1,
+            "group": "2.1 प्राचीन युद्ध विज्ञान",
+            "title": "भाला प्रशिक्षण",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-056",
+            "department": 1,
+            "group": "2.1 प्राचीन युद्ध विज्ञान",
+            "title": "गदा युद्ध",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-057",
+            "department": 1,
+            "group": "2.1 प्राचीन युद्ध विज्ञान",
+            "title": "रणनीति विज्ञान",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-058",
+            "department": 1,
+            "group": "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+            "title": "Self Defense",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-059",
+            "department": 1,
+            "group": "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+            "title": "Martial Arts",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-060",
+            "department": 1,
+            "group": "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+            "title": "Civil Defense",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-061",
+            "department": 1,
+            "group": "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+            "title": "Disaster Management",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-062",
+            "department": 1,
+            "group": "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+            "title": "Emergency Response",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-063",
+            "department": 1,
+            "group": "2.3 सुरक्षा एवं रक्षा प्रणाली",
+            "title": "Security Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-064",
+            "department": 1,
+            "group": "2.3 सुरक्षा एवं रक्षा प्रणाली",
+            "title": "Surveillance Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-065",
+            "department": 1,
+            "group": "2.3 सुरक्षा एवं रक्षा प्रणाली",
+            "title": "Drone Defense",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-066",
+            "department": 1,
+            "group": "2.3 सुरक्षा एवं रक्षा प्रणाली",
+            "title": "Cyber Defense",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-067",
+            "department": 2,
+            "group": "3.1 मूल विज्ञान",
+            "title": "Physics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-068",
+            "department": 2,
+            "group": "3.1 मूल विज्ञान",
+            "title": "Chemistry",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-069",
+            "department": 2,
+            "group": "3.1 मूल विज्ञान",
+            "title": "Biology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-070",
+            "department": 2,
+            "group": "3.1 मूल विज्ञान",
+            "title": "Mathematics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-071",
+            "department": 2,
+            "group": "3.2 उन्नत विज्ञान",
+            "title": "Quantum Physics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-072",
+            "department": 2,
+            "group": "3.2 उन्नत विज्ञान",
+            "title": "Biotechnology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-073",
+            "department": 2,
+            "group": "3.2 उन्नत विज्ञान",
+            "title": "Nanotechnology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-074",
+            "department": 2,
+            "group": "3.2 उन्नत विज्ञान",
+            "title": "Nuclear Science",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-075",
+            "department": 2,
+            "group": "3.3 अनुप्रयुक्त विज्ञान",
+            "title": "Agricultural Science",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-076",
+            "department": 2,
+            "group": "3.3 अनुप्रयुक्त विज्ञान",
+            "title": "Medical Science Awareness",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-077",
+            "department": 2,
+            "group": "3.3 अनुप्रयुक्त विज्ञान",
+            "title": "Food Science",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-078",
+            "department": 2,
+            "group": "3.3 अनुप्रयुक्त विज्ञान",
+            "title": "Renewable Energy",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-079",
+            "department": 3,
+            "group": "4.1 Computer Technology",
+            "title": "Computer Basics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": [
+                {
+                    "id": "computer-foundations",
+                    "pdf": "assets\/materials\/computer-foundations.pdf",
+                    "ppt": "assets\/materials\/computer-foundations.pptx",
+                    "title": "Input, processing and output",
+                    "free": true,
+                    "body": "A computer accepts input, processes it according to instructions, and produces output. Storage keeps information for later use.\n\nWhen you type a calculation, the keyboard provides input, the processor performs the calculation, and the screen displays the output. Saving the result uses storage.\n\nHardware means physical parts. Software means the instructions and programs that run on the hardware. A browser is software; a keyboard is hardware.",
+                    "questions": [
+                        {
+                            "prompt": "Which device is normally used for input?",
+                            "options": [
+                                "Keyboard",
+                                "Monitor",
+                                "Speaker",
+                                "Printer"
+                            ],
+                            "answer": 0,
+                            "explanation": "A keyboard sends the keys you press to the computer."
+                        },
+                        {
+                            "prompt": "What is a browser?",
+                            "options": [
+                                "A storage chip",
+                                "Software",
+                                "A power supply",
+                                "A printer"
+                            ],
+                            "answer": 1,
+                            "explanation": "A browser is a program used to access websites."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "g-080",
+            "department": 3,
+            "group": "4.1 Computer Technology",
+            "title": "Networking",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-081",
+            "department": 3,
+            "group": "4.1 Computer Technology",
+            "title": "Hardware",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-082",
+            "department": 3,
+            "group": "4.1 Computer Technology",
+            "title": "Operating Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-083",
+            "department": 3,
+            "group": "4.2 Software Technology",
+            "title": "Coding",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-084",
+            "department": 3,
+            "group": "4.2 Software Technology",
+            "title": "Web Development",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-085",
+            "department": 3,
+            "group": "4.2 Software Technology",
+            "title": "App Development",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-086",
+            "department": 3,
+            "group": "4.2 Software Technology",
+            "title": "Software Engineering",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-087",
+            "department": 3,
+            "group": "4.3 Digital Technology",
+            "title": "Digital Marketing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-088",
+            "department": 3,
+            "group": "4.3 Digital Technology",
+            "title": "SEO",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-089",
+            "department": 3,
+            "group": "4.3 Digital Technology",
+            "title": "Social Media",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-090",
+            "department": 3,
+            "group": "4.3 Digital Technology",
+            "title": "Graphic Design",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-091",
+            "department": 3,
+            "group": "4.3 Digital Technology",
+            "title": "Video Editing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-092",
+            "department": 3,
+            "group": "4.4 Cyber Technology",
+            "title": "Cybersecurity",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-093",
+            "department": 3,
+            "group": "4.4 Cyber Technology",
+            "title": "Ethical Hacking",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-094",
+            "department": 3,
+            "group": "4.4 Cyber Technology",
+            "title": "Data Protection",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-095",
+            "department": 3,
+            "group": "4.5 Industrial Technology",
+            "title": "Automation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-096",
+            "department": 3,
+            "group": "4.5 Industrial Technology",
+            "title": "CNC Machines",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-097",
+            "department": 3,
+            "group": "4.5 Industrial Technology",
+            "title": "3D Printing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-098",
+            "department": 3,
+            "group": "4.5 Industrial Technology",
+            "title": "Smart Manufacturing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-099",
+            "department": 4,
+            "group": "5.1 AI Foundation",
+            "title": "Artificial Intelligence",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-100",
+            "department": 4,
+            "group": "5.1 AI Foundation",
+            "title": "Machine Learning",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-101",
+            "department": 4,
+            "group": "5.1 AI Foundation",
+            "title": "Deep Learning",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-102",
+            "department": 4,
+            "group": "5.1 AI Foundation",
+            "title": "Neural Networks",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-103",
+            "department": 4,
+            "group": "5.2 Generative AI",
+            "title": "AI Chatbots",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-104",
+            "department": 4,
+            "group": "5.2 Generative AI",
+            "title": "AI Image Generation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-105",
+            "department": 4,
+            "group": "5.2 Generative AI",
+            "title": "AI Video Generation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-106",
+            "department": 4,
+            "group": "5.2 Generative AI",
+            "title": "AI Content Creation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-107",
+            "department": 4,
+            "group": "5.3 AI Systems",
+            "title": "AI Automation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-108",
+            "department": 4,
+            "group": "5.3 AI Systems",
+            "title": "AI Analytics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-109",
+            "department": 4,
+            "group": "5.3 AI Systems",
+            "title": "AI Infrastructure",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-110",
+            "department": 4,
+            "group": "5.3 AI Systems",
+            "title": "AI Business Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-111",
+            "department": 4,
+            "group": "5.4 Advanced AI",
+            "title": "AGI Concepts",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-112",
+            "department": 4,
+            "group": "5.4 Advanced AI",
+            "title": "AI Ethics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-113",
+            "department": 4,
+            "group": "5.4 Advanced AI",
+            "title": "AI Research",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-114",
+            "department": 5,
+            "group": "6.1 Robotics Foundation",
+            "title": "Electronics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-115",
+            "department": 5,
+            "group": "6.1 Robotics Foundation",
+            "title": "Sensors",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-116",
+            "department": 5,
+            "group": "6.1 Robotics Foundation",
+            "title": "Circuit Design",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-117",
+            "department": 5,
+            "group": "6.1 Robotics Foundation",
+            "title": "Embedded Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-118",
+            "department": 5,
+            "group": "6.2 Robot Building",
+            "title": "Industrial Robots",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-119",
+            "department": 5,
+            "group": "6.2 Robot Building",
+            "title": "Humanoid Robots",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-120",
+            "department": 5,
+            "group": "6.2 Robot Building",
+            "title": "Medical Robots",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-121",
+            "department": 5,
+            "group": "6.2 Robot Building",
+            "title": "Service Robots",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-122",
+            "department": 5,
+            "group": "6.3 Robotics Automation",
+            "title": "AI Robotics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-123",
+            "department": 5,
+            "group": "6.3 Robotics Automation",
+            "title": "Factory Robotics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-124",
+            "department": 5,
+            "group": "6.3 Robotics Automation",
+            "title": "Smart Machines",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-125",
+            "department": 5,
+            "group": "6.4 Drone Technology",
+            "title": "Drone Assembly",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-126",
+            "department": 5,
+            "group": "6.4 Drone Technology",
+            "title": "Drone Programming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-127",
+            "department": 5,
+            "group": "6.4 Drone Technology",
+            "title": "Drone Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-128",
+            "department": 6,
+            "group": "7.1 Software & Systems",
+            "title": "ERP",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-129",
+            "department": 6,
+            "group": "7.1 Software & Systems",
+            "title": "CRM",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-130",
+            "department": 6,
+            "group": "7.1 Software & Systems",
+            "title": "SaaS Platforms",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-131",
+            "department": 6,
+            "group": "7.1 Software & Systems",
+            "title": "Cloud Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-132",
+            "department": 6,
+            "group": "7.2 Networking & Security",
+            "title": "Networking",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-133",
+            "department": 6,
+            "group": "7.2 Networking & Security",
+            "title": "Server Management",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-134",
+            "department": 6,
+            "group": "7.2 Networking & Security",
+            "title": "Ethical Hacking",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-135",
+            "department": 6,
+            "group": "7.2 Networking & Security",
+            "title": "Cloud Security",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-136",
+            "department": 6,
+            "group": "7.3 Digital Business",
+            "title": "E-Commerce",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-137",
+            "department": 6,
+            "group": "7.3 Digital Business",
+            "title": "Marketplace Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-138",
+            "department": 6,
+            "group": "7.3 Digital Business",
+            "title": "Search Engines",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-139",
+            "department": 6,
+            "group": "7.3 Digital Business",
+            "title": "Social Media Platforms",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-140",
+            "department": 7,
+            "group": "8.1 Space Science",
+            "title": "Astronomy",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-141",
+            "department": 7,
+            "group": "8.1 Space Science",
+            "title": "Astrophysics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-142",
+            "department": 7,
+            "group": "8.1 Space Science",
+            "title": "Cosmology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-143",
+            "department": 7,
+            "group": "8.2 Space Technology",
+            "title": "Satellites",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-144",
+            "department": 7,
+            "group": "8.2 Space Technology",
+            "title": "Rocket Science",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-145",
+            "department": 7,
+            "group": "8.2 Space Technology",
+            "title": "Space Communication",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-146",
+            "department": 7,
+            "group": "8.3 Future Space Systems",
+            "title": "Space Robotics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-147",
+            "department": 7,
+            "group": "8.3 Future Space Systems",
+            "title": "Space AI",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-148",
+            "department": 7,
+            "group": "8.3 Future Space Systems",
+            "title": "Mars Mission Concepts",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-149",
+            "department": 7,
+            "group": "8.3 Future Space Systems",
+            "title": "Space Colonization",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-150",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Herbal Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-151",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Herbal Soap",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-152",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Herbal Oil",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-153",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Herbal Cosmetics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-154",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Panchgavya Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-155",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Plastic & Packaging",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-156",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Plastic Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-157",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Packaging Materials",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-158",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Bottles",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-159",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Containers",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-160",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Industrial Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-161",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Paint",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-162",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Adhesive",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-163",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Lubricants",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-164",
+            "department": 8,
+            "group": "A. MANUFACTURING INDUSTRY",
+            "title": "Chemical Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-165",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Bakery",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-166",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Namkeen",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-167",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Pickles",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-168",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Dairy Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-169",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Chocolate",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-170",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Ice Cream",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-171",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Organic Food",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-172",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Frozen Food",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-173",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Millet Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-174",
+            "department": 8,
+            "group": "B. FOOD PROCESSING INDUSTRY",
+            "title": "Beverages",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-175",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Tailoring",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-176",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Garment Manufacturing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-177",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Fashion Design",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-178",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Embroidery",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-179",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Jewelry Design",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-180",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Leather Products",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-181",
+            "department": 8,
+            "group": "C. TEXTILE & FASHION INDUSTRY",
+            "title": "Footwear",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-182",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "Mobile Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-183",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "Laptop Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-184",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "AC Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-185",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "Refrigerator Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-186",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "EV Repair",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-187",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "Solar Installation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-188",
+            "department": 8,
+            "group": "D. TECHNICAL & REPAIRING SKILLS",
+            "title": "CCTV Installation",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-189",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Organic Farming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-190",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Hydroponics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-191",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Dairy Farming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-192",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Poultry",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-193",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Goat Farming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-194",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Fish Farming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-195",
+            "department": 8,
+            "group": "E. AGRICULTURE & RURAL INDUSTRY",
+            "title": "Mushroom Farming",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-196",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "Graphic Design",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-197",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "Video Editing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-198",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "SEO",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-199",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "Social Media Marketing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-200",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "Content Writing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-201",
+            "department": 8,
+            "group": "F. DIGITAL SERVICES",
+            "title": "Freelancing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-202",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "Startup Training",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-203",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "Branding",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-204",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "Franchise",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-205",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "Import Export",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-206",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "E-Commerce",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-207",
+            "department": 8,
+            "group": "G. BUSINESS & ENTREPRENEURSHIP",
+            "title": "Sales Training",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-208",
+            "department": 8,
+            "group": "H. SERVICE INDUSTRY",
+            "title": "Event Management",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-209",
+            "department": 8,
+            "group": "H. SERVICE INDUSTRY",
+            "title": "Beauty & Wellness",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-210",
+            "department": 8,
+            "group": "H. SERVICE INDUSTRY",
+            "title": "Fitness Training",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-211",
+            "department": 8,
+            "group": "H. SERVICE INDUSTRY",
+            "title": "Hospitality",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-212",
+            "department": 8,
+            "group": "H. SERVICE INDUSTRY",
+            "title": "Tourism",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-213",
+            "department": 8,
+            "group": "I. MEDIA AND CONTENT INDUSTRY",
+            "title": "Photography",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-214",
+            "department": 8,
+            "group": "I. MEDIA AND CONTENT INDUSTRY",
+            "title": "Videography",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-215",
+            "department": 8,
+            "group": "I. MEDIA AND CONTENT INDUSTRY",
+            "title": "Podcast",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-216",
+            "department": 8,
+            "group": "I. MEDIA AND CONTENT INDUSTRY",
+            "title": "YouTube",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-217",
+            "department": 8,
+            "group": "I. MEDIA AND CONTENT INDUSTRY",
+            "title": "OTT Content",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-218",
+            "department": 8,
+            "group": "J. FUTURE TECHNOLOGY INDUSTRY",
+            "title": "Smart City Systems",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-219",
+            "department": 8,
+            "group": "J. FUTURE TECHNOLOGY INDUSTRY",
+            "title": "EV Technology",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-220",
+            "department": 8,
+            "group": "J. FUTURE TECHNOLOGY INDUSTRY",
+            "title": "Green Energy",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-221",
+            "department": 8,
+            "group": "J. FUTURE TECHNOLOGY INDUSTRY",
+            "title": "Semiconductor Basics",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "g-222",
+            "department": 8,
+            "group": "J. FUTURE TECHNOLOGY INDUSTRY",
+            "title": "Quantum Computing",
+            "system": "gurukul",
+            "description": "Structured learning resources for this subject.",
+            "chapters": []
+        },
+        {
+            "id": "sample-linear-equations",
+            "department": 2,
+            "system": "school",
+            "group": "Academy sample lessons",
+            "title": "Linear Equations: Find the Unknown",
+            "description": "Understand equality, solve a one-variable equation and check your answer through a worked example. An original introductory sample in English.",
+            "chapters": [
+                {
+                    "id": "balance-and-solve",
+                    "title": "Solving 2x + 3 = 11",
+                    "free": true,
+                    "video": "assets\/lectures\/linear-equations.mp4",
+                    "body": "An equation states that two expressions have equal values. Think of the equals sign as a balanced scale. Whatever operation you apply to one side must also be applied to the other.\n\nSolve 2x + 3 = 11. Subtract 3 from both sides: 2x = 8. Divide both sides by 2: x = 4.\n\nCheck your solution in the original equation: 2 × 4 + 3 = 11. Both sides match, so x = 4 is correct.\n\nTry this: solve 3x + 2 = 14. Subtract 2, then divide by 3. You should obtain x = 4.",
+                    "questions": [
+                        {
+                            "prompt": "What is x in 2x + 3 = 11?",
+                            "options": [
+                                "3",
+                                "4",
+                                "7",
+                                "8"
+                            ],
+                            "answer": 1,
+                            "explanation": "Subtract 3 to obtain 2x = 8, then divide by 2."
+                        },
+                        {
+                            "prompt": "Why subtract 3 from both sides?",
+                            "options": [
+                                "To keep the equation balanced",
+                                "To change the answer",
+                                "To remove x",
+                                "To make both sides zero"
+                            ],
+                            "answer": 0,
+                            "explanation": "Applying the same operation to both sides preserves equality."
+                        }
+                    ]
+                },
+                {
+                    "id": "equations-in-context",
+                    "title": "Turn a word problem into an equation",
+                    "free": false,
+                    "body": "Three notebooks and a pen cost ₹65. The pen costs ₹5. If each notebook has the same price x, write 3x + 5 = 65.\n\nSubtract 5: 3x = 60. Divide by 3: x = 20. Each notebook costs ₹20. Check: three notebooks cost ₹60; adding the ₹5 pen gives ₹65.\n\nPractice: four identical pencils and a ₹6 eraser cost ₹30. Write 4x + 6 = 30, giving x = 6. Each pencil costs ₹6.",
+                    "questions": [
+                        {
+                            "prompt": "Three notebooks plus a ₹5 pen cost ₹65. What is the notebook price?",
+                            "options": [
+                                "₹15",
+                                "₹20",
+                                "₹25",
+                                "₹60"
+                            ],
+                            "answer": 1,
+                            "explanation": "Remove ₹5 from ₹65 and divide the remaining ₹60 by three."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sample-motion-speed",
+            "department": 2,
+            "system": "school",
+            "group": "Academy sample lessons",
+            "title": "Motion & Speed: Measure a Journey",
+            "description": "Learn to calculate average speed using distance and elapsed time, compare journeys and work with units. An original introductory sample in English.",
+            "chapters": [
+                {
+                    "id": "distance-over-time",
+                    "title": "Average speed = total distance ÷ total time",
+                    "free": true,
+                    "video": "assets\/lectures\/motion-speed.mp4",
+                    "body": "Average speed describes how much distance is covered per unit of time. Divide total distance by total elapsed time. The time must be greater than zero.\n\nA cyclist covers 120 metres in 20 seconds. Average speed = 120 ÷ 20 = 6 metres per second, written 6 m\/s.\n\nA walker travels 150 metres in 50 seconds. Average speed = 3 m\/s. The cyclist has the higher average speed in these examples.\n\nAverage speed summarises the whole journey. It does not tell us that the cyclist travelled at exactly 6 m\/s at every instant. Include any stops in the total elapsed time.",
+                    "questions": [
+                        {
+                            "prompt": "What is the average speed over 120 m in 20 s?",
+                            "options": [
+                                "2 m\/s",
+                                "6 m\/s",
+                                "20 m\/s",
+                                "100 m\/s"
+                            ],
+                            "answer": 1,
+                            "explanation": "Divide 120 metres by 20 seconds to obtain 6 m\/s."
+                        },
+                        {
+                            "prompt": "Which time belongs in an average-speed calculation?",
+                            "options": [
+                                "Only the fastest second",
+                                "Total elapsed journey time",
+                                "Only the time moving",
+                                "No time is needed"
+                            ],
+                            "answer": 1,
+                            "explanation": "Use total elapsed time, including any stops during the journey."
+                        }
+                    ]
+                },
+                {
+                    "id": "speed-unit-practice",
+                    "title": "Comparing speeds in different units",
+                    "free": false,
+                    "body": "To convert metres per second to kilometres per hour, multiply by 3.6. One hour contains 3600 seconds and one kilometre contains 1000 metres, so the conversion factor is 3600 ÷ 1000.\n\n6 m\/s = 6 × 3.6 = 21.6 km\/h. To convert in the opposite direction, divide by 3.6. For example, 36 km\/h = 10 m\/s.\n\nA 90 km journey taking 2 hours has average speed 45 km\/h. Before comparing two speeds, convert them to the same units.",
+                    "questions": [
+                        {
+                            "prompt": "What is 10 m\/s in km\/h?",
+                            "options": [
+                                "3.6 km\/h",
+                                "10 km\/h",
+                                "36 km\/h",
+                                "360 km\/h"
+                            ],
+                            "answer": 2,
+                            "explanation": "Multiply 10 by 3.6 to obtain 36 km\/h."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "states": {
+        "Andhra Pradesh": [
+            "Board of Secondary Education, Andhra Pradesh",
+            "Board of Intermediate Education, Andhra Pradesh",
+            "Andhra Pradesh Open School Society"
+        ],
+        "Arunachal Pradesh": [],
+        "Assam": [
+            "Assam State School Education Board (ASSEB) — Division I",
+            "Assam State School Education Board (ASSEB) — Division II",
+            "Assam State Open School"
+        ],
+        "Bihar": [
+            "Bihar School Examination Board",
+            "Bihar State Madrasa Education Board",
+            "Bihar Sanskrit Shiksha Board",
+            "Bihar Board of Open Schooling and Examination"
+        ],
+        "Chhattisgarh": [
+            "Chhattisgarh Board of Secondary Education",
+            "Chhattisgarh State Open School",
+            "Chhattisgarh Sanskrit Vidyamandalam",
+            "Chhattisgarh Madarsa Board"
+        ],
+        "Goa": [
+            "Goa Board of Secondary and Higher Secondary Education"
+        ],
+        "Gujarat": [
+            "Gujarat Secondary and Higher Secondary Education Board"
+        ],
+        "Haryana": [
+            "Board of School Education Haryana"
+        ],
+        "Himachal Pradesh": [
+            "Himachal Pradesh Board of School Education"
+        ],
+        "Jharkhand": [
+            "Jharkhand Academic Council"
+        ],
+        "Karnataka": [
+            "Karnataka School Examination and Assessment Board"
+        ],
+        "Kerala": [
+            "Kerala Board of Public Examinations",
+            "Kerala Board of Higher Secondary Education",
+            "Kerala Board of Vocational Higher Secondary Education"
+        ],
+        "Madhya Pradesh": [
+            "Board of Secondary Education, Madhya Pradesh",
+            "Madhya Pradesh State Open School",
+            "Maharishi Patanjali Sanskrit Sansthan"
+        ],
+        "Maharashtra": [
+            "Maharashtra State Board of Secondary and Higher Secondary Education",
+            "Maharashtra State Board of Open Schooling"
+        ],
+        "Manipur": [
+            "Board of Secondary Education Manipur",
+            "Council of Higher Secondary Education Manipur"
+        ],
+        "Meghalaya": [
+            "Meghalaya Board of School Education"
+        ],
+        "Mizoram": [
+            "Mizoram Board of School Education"
+        ],
+        "Nagaland": [
+            "Nagaland Board of School Education"
+        ],
+        "Odisha": [
+            "Board of Secondary Education Odisha",
+            "Council of Higher Secondary Education Odisha",
+            "Odisha State Board of Madrasa Education",
+            "Shri Jagannath Sanskrit Vishvavidyalaya"
+        ],
+        "Punjab": [
+            "Punjab School Education Board"
+        ],
+        "Rajasthan": [
+            "Board of Secondary Education Rajasthan",
+            "Rajasthan State Open School"
+        ],
+        "Sikkim": [
+            "Board of Open Schooling and Skill Education Sikkim"
+        ],
+        "Tamil Nadu": [
+            "Tamil Nadu State Board of School Examinations"
+        ],
+        "Telangana": [
+            "Board of Secondary Education Telangana",
+            "Telangana Board of Intermediate Education",
+            "Telangana Open School Society"
+        ],
+        "Tripura": [
+            "Tripura Board of Secondary Education"
+        ],
+        "Uttar Pradesh": [
+            "Uttar Pradesh Madhyamik Shiksha Parishad",
+            "Uttar Pradesh Board of Secondary Sanskrit Education",
+            "Uttar Pradesh Board of Madrasa Education"
+        ],
+        "Uttarakhand": [
+            "Uttarakhand Board of School Education",
+            "Uttarakhand Sanskrit Shiksha Parishad"
+        ],
+        "West Bengal": [
+            "West Bengal Board of Secondary Education",
+            "West Bengal Council of Higher Secondary Education",
+            "West Bengal Board of Madrasah Education",
+            "West Bengal Council of Rabindra Open Schooling",
+            "West Bengal State Council of Technical and Vocational Education and Skill Development"
+        ],
+        "Andaman and Nicobar Islands": [],
+        "Chandigarh": [],
+        "Dadra and Nagar Haveli and Daman and Diu": [],
+        "Delhi": [
+            "Delhi Board of School Education"
+        ],
+        "Jammu and Kashmir": [
+            "Jammu and Kashmir Board of School Education",
+            "Jammu and Kashmir State Open School"
+        ],
+        "Ladakh": [],
+        "Lakshadweep": [],
+        "Puducherry": []
+    },
+    "national": [
+        "CBSE",
+        "CISCE (ICSE \/ ISC)",
+        "National Institute of Open Schooling (NIOS)"
+    ],
+    "subjects": {
+        "1": [
+            "Languages",
+            "Mathematics",
+            "The World Around Us"
+        ],
+        "2": [
+            "Languages",
+            "Mathematics",
+            "The World Around Us"
+        ],
+        "3": [
+            "Languages",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "4": [
+            "Languages",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "5": [
+            "Languages",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "6": [
+            "Languages",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies"
+        ],
+        "7": [
+            "Languages",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies"
+        ],
+        "8": [
+            "Languages",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies"
+        ],
+        "9": [
+            "Languages",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies"
+        ],
+        "10": [
+            "Languages",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies"
+        ],
+        "11": [
+            "Languages",
+            "Mathematics",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "History",
+            "Geography",
+            "Political Science",
+            "Sociology",
+            "Psychology",
+            "Vocational Studies"
+        ],
+        "12": [
+            "Languages",
+            "Mathematics",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "History",
+            "Geography",
+            "Political Science",
+            "Sociology",
+            "Psychology",
+            "Vocational Studies"
+        ]
+    }
+}

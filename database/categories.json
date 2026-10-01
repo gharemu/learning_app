@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "state",
+    "system": "indian",
+    "title": "State Board",
+    "image": "/images/state.png",
+    "filters": [
+      {
+        "key": "state",
+        "label": "State / Union territory",
+        "values": [
+          "Andhra Pradesh",
+          "Arunachal Pradesh",
+          "Assam",
+          "Bihar",
+          "Chhattisgarh",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Himachal Pradesh",
+          "Jharkhand",
+          "Karnataka",
+          "Kerala",
+          "Madhya Pradesh",
+          "Maharashtra",
+          "Manipur",
+          "Meghalaya",
+          "Mizoram",
+          "Nagaland",
+          "Odisha",
+          "Punjab",
+          "Rajasthan",
+          "Sikkim",
+          "Tamil Nadu",
+          "Telangana",
+          "Tripura",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal",
+          "Andaman and Nicobar Islands",
+          "Chandigarh",
+          "Dadra and Nagar Haveli and Daman and Diu",
+          "Delhi",
+          "Jammu and Kashmir",
+          "Ladakh",
+          "Lakshadweep",
+          "Puducherry"
+        ]
+      },
+      {
+        "key": "board",
+        "label": "Board",
+        "values": [],
+        "dependsOn": "state",
+        "optionsBy": {
+          "Andhra Pradesh": [
+            "Board of Secondary Education, Andhra Pradesh",
+            "Board of Intermediate Education, Andhra Pradesh",
+            "Andhra Pradesh Open School Society"
+          ],
+          "Arunachal Pradesh": [],
+          "Assam": [
+            "Assam State School Education Board (ASSEB) — Division I",
+            "Assam State School Education Board (ASSEB) — Division II",
+            "Assam State Open School"
+          ],
+          "Bihar": [
+            "Bihar School Examination Board",
+            "Bihar State Madrasa Education Board",
+            "Bihar Sanskrit Shiksha Board",
+            "Bihar Board of Open Schooling and Examination"
+          ],
+          "Chhattisgarh": [
+            "Chhattisgarh Board of Secondary Education",
+            "Chhattisgarh State Open School",
+            "Chhattisgarh Sanskrit Vidyamandalam",
+            "Chhattisgarh Madarsa Board"
+          ],
+          "Goa": ["Goa Board of Secondary and Higher Secondary Education"],
+          "Gujarat": ["Gujarat Secondary and Higher Secondary Education Board"],
+          "Haryana": ["Board of School Education Haryana"],
+          "Himachal Pradesh": ["Himachal Pradesh Board of School Education"],
+          "Jharkhand": ["Jharkhand Academic Council"],
+          "Karnataka": ["Karnataka School Examination and Assessment Board"],
+          "Kerala": [
+            "Kerala Board of Public Examinations",
+            "Kerala Board of Higher Secondary Education",
+            "Kerala Board of Vocational Higher Secondary Education"
+          ],
+          "Madhya Pradesh": [
+            "Board of Secondary Education, Madhya Pradesh",
+            "Madhya Pradesh State Open School",
+            "Maharishi Patanjali Sanskrit Sansthan"
+          ],
+          "Maharashtra": [
+            "Maharashtra State Board of Secondary and Higher Secondary Education",
+            "Maharashtra State Board of Open Schooling"
+          ],
+          "Manipur": [
+            "Board of Secondary Education Manipur",
+            "Council of Higher Secondary Education Manipur"
+          ],
+          "Meghalaya": ["Meghalaya Board of School Education"],
+          "Mizoram": ["Mizoram Board of School Education"],
+          "Nagaland": ["Nagaland Board of School Education"],
+          "Odisha": [
+            "Board of Secondary Education Odisha",
+            "Council of Higher Secondary Education Odisha",
+            "Odisha State Board of Madrasa Education",
+            "Shri Jagannath Sanskrit Vishvavidyalaya"
+          ],
+          "Punjab": ["Punjab School Education Board"],
+          "Rajasthan": [
+            "Board of Secondary Education Rajasthan",
+            "Rajasthan State Open School"
+          ],
+          "Sikkim": ["Board of Open Schooling and Skill Education Sikkim"],
+          "Tamil Nadu": ["Tamil Nadu State Board of School Examinations"],
+          "Telangana": [
+            "Board of Secondary Education Telangana",
+            "Telangana Board of Intermediate Education",
+            "Telangana Open School Society"
+          ],
+          "Tripura": ["Tripura Board of Secondary Education"],
+          "Uttar Pradesh": [
+            "Uttar Pradesh Madhyamik Shiksha Parishad",
+            "Uttar Pradesh Board of Secondary Sanskrit Education",
+            "Uttar Pradesh Board of Madrasa Education"
+          ],
+          "Uttarakhand": [
+            "Uttarakhand Board of School Education",
+            "Uttarakhand Sanskrit Shiksha Parishad"
+          ],
+          "West Bengal": [
+            "West Bengal Board of Secondary Education",
+            "West Bengal Council of Higher Secondary Education",
+            "West Bengal Board of Madrasah Education",
+            "West Bengal Council of Rabindra Open Schooling",
+            "West Bengal State Council of Technical and Vocational Education and Skill Development"
+          ],
+          "Andaman and Nicobar Islands": [],
+          "Chandigarh": [],
+          "Dadra and Nagar Haveli and Daman and Diu": [],
+          "Delhi": ["Delhi Board of School Education"],
+          "Jammu and Kashmir": [
+            "Jammu and Kashmir Board of School Education",
+            "Jammu and Kashmir State Open School"
+          ],
+          "Ladakh": [],
+          "Lakshadweep": [],
+          "Puducherry": []
+        }
+      },
+      {
+        "key": "medium",
+        "label": "Medium",
+        "values": ["English", "Hindi"],
+        "dependsOn": "state",
+        "optionsBy": {
+          "Maharashtra": ["Marathi", "English", "Hindi", "Urdu"],
+          "Gujarat": ["Gujarati", "English", "Hindi"],
+          "Karnataka": ["Kannada", "English", "Hindi"],
+          "Tamil Nadu": ["Tamil", "English"],
+          "Telangana": ["Telugu", "English", "Urdu"],
+          "Andhra Pradesh": ["Telugu", "English"],
+          "Kerala": ["Malayalam", "English"],
+          "West Bengal": ["Bengali", "English", "Hindi"],
+          "Punjab": ["Punjabi", "English", "Hindi"],
+          "Odisha": ["Odia", "English", "Hindi"],
+          "Assam": ["Assamese", "Bengali", "Bodo", "English", "Hindi"]
+        }
+      },
+      {
+        "key": "standard",
+        "label": "Class",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "English",
+          "Hindi",
+          "Mathematics",
+          "Science",
+          "Social Science",
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "Computer Science",
+          "Informatics Practices",
+          "Accountancy",
+          "Business Studies",
+          "Economics",
+          "Political Science",
+          "History",
+          "Geography",
+          "Psychology",
+          "Sociology",
+          "Physical Education",
+          "Environmental Studies",
+          "Marathi",
+          "Gujarati",
+          "Kannada",
+          "Tamil",
+          "Telugu",
+          "Bengali",
+          "Malayalam",
+          "Punjabi",
+          "Urdu",
+          "Sanskrit"
+        ],
+        "dependsOn": "standard",
+        "optionsBy": {
+          "1": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "2": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "3": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "4": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "5": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "6": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "7": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "8": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "9": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "10": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Assamese",
+            "Odia"
+          ],
+          "11": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit",
+            "Assamese",
+            "Odia"
+          ],
+          "12": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit",
+            "Assamese",
+            "Odia"
+          ]
+        }
+      }
+    ],
+    "parent_id": null,
+    "position": 0
+  },
+  {
+    "id": "cbse",
+    "system": "indian",
+    "title": "CBSE Board",
+    "image": "/images/cbse.png",
+    "filters": [
+      {
+        "key": "medium",
+        "label": "Medium",
+        "values": ["English", "Hindi"]
+      },
+      {
+        "key": "standard",
+        "label": "Class",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "English",
+          "Hindi",
+          "Mathematics",
+          "Science",
+          "Social Science",
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "Computer Science",
+          "Informatics Practices",
+          "Accountancy",
+          "Business Studies",
+          "Economics",
+          "Political Science",
+          "History",
+          "Geography",
+          "Psychology",
+          "Sociology",
+          "Physical Education",
+          "Environmental Studies",
+          "Marathi",
+          "Gujarati",
+          "Kannada",
+          "Tamil",
+          "Telugu",
+          "Bengali",
+          "Malayalam",
+          "Punjabi",
+          "Urdu",
+          "Sanskrit"
+        ],
+        "dependsOn": "standard",
+        "optionsBy": {
+          "1": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "2": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "3": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "4": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "5": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "6": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "7": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "8": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "9": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "10": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "11": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit"
+          ],
+          "12": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit"
+          ]
+        }
+      }
+    ],
+    "parent_id": null,
+    "position": 1
+  },
+  {
+    "id": "cisce",
+    "system": "indian",
+    "title": "CISCE / ICSE / ISC",
+    "image": "/images/cisce.png",
+    "filters": [
+      {
+        "key": "board",
+        "label": "Board",
+        "values": ["ICSE", "ISC", "IB", "Cambridge CAIE", "NIOS"]
+      },
+      {
+        "key": "medium",
+        "label": "Medium",
+        "values": ["English", "Hindi"]
+      },
+      {
+        "key": "standard",
+        "label": "Class",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "English",
+          "Hindi",
+          "Mathematics",
+          "Science",
+          "Social Science",
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "Computer Science",
+          "Informatics Practices",
+          "Accountancy",
+          "Business Studies",
+          "Economics",
+          "Political Science",
+          "History",
+          "Geography",
+          "Psychology",
+          "Sociology",
+          "Physical Education",
+          "Environmental Studies",
+          "Marathi",
+          "Gujarati",
+          "Kannada",
+          "Tamil",
+          "Telugu",
+          "Bengali",
+          "Malayalam",
+          "Punjabi",
+          "Urdu",
+          "Sanskrit"
+        ],
+        "dependsOn": "standard",
+        "optionsBy": {
+          "1": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "2": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "3": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "4": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "5": ["English", "Hindi", "Mathematics", "Environmental Studies"],
+          "6": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "7": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "8": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "9": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "10": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Computer Studies",
+            "Sanskrit"
+          ],
+          "11": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit"
+          ],
+          "12": [
+            "English",
+            "Hindi",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Informatics Practices",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "Political Science",
+            "History",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Physical Education",
+            "Environmental Studies",
+            "Marathi",
+            "Gujarati",
+            "Kannada",
+            "Tamil",
+            "Telugu",
+            "Bengali",
+            "Malayalam",
+            "Punjabi",
+            "Urdu",
+            "Sanskrit"
+          ]
+        }
+      }
+    ],
+    "parent_id": null,
+    "position": 2
+  },
+  {
+    "id": "entrance",
+    "system": "indian",
+    "title": "IIT · JEE · NEET",
+    "image": "/images/entrance.png",
+    "filters": [
+      {
+        "key": "exam",
+        "label": "Examination",
+        "values": ["JEE Main", "JEE Advanced", "NEET"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [],
+        "dependsOn": "exam",
+        "optionsBy": {
+          "JEE Main": ["Physics", "Chemistry", "Mathematics"],
+          "JEE Advanced": ["Physics", "Chemistry", "Mathematics"],
+          "NEET": ["Physics", "Chemistry", "Biology"]
+        }
+      }
+    ],
+    "parent_id": null,
+    "position": 3
+  },
+  {
+    "id": "government",
+    "system": "indian",
+    "title": "UPSC · MPSC · Government Jobs",
+    "image": "/images/government.png",
+    "filters": [
+      {
+        "key": "exam",
+        "label": "Examination",
+        "values": [
+          "UPSC",
+          "MPSC",
+          "SSC",
+          "Banking",
+          "Railway",
+          "Defence",
+          "Teaching"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "History",
+          "Geography",
+          "Polity",
+          "Economics",
+          "Environment",
+          "Science & Technology",
+          "Current Affairs",
+          "Ethics",
+          "CSAT",
+          "General Science",
+          "Marathi",
+          "English",
+          "Reasoning",
+          "Quantitative Aptitude"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 4
+  },
+  {
+    "id": "commerce",
+    "system": "indian",
+    "title": "Commerce",
+    "image": "/images/commerce.png",
+    "filters": [
+      {
+        "key": "year",
+        "label": "Class / Year",
+        "values": [
+          "Class 11",
+          "Class 12",
+          "1st Year",
+          "2nd Year",
+          "3rd Year",
+          "4th Year"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Accountancy",
+          "Business Studies",
+          "Economics",
+          "Mathematics",
+          "Statistics",
+          "English",
+          "Finance",
+          "Banking",
+          "Taxation"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 5
+  },
+  {
+    "id": "science-college",
+    "system": "indian",
+    "title": "Science",
+    "image": "/images/science-college.png",
+    "filters": [
+      {
+        "key": "year",
+        "label": "Class / Year",
+        "values": [
+          "Class 11",
+          "Class 12",
+          "1st Year",
+          "2nd Year",
+          "3rd Year",
+          "4th Year"
+        ]
+      },
+      {
+        "key": "stream",
+        "label": "Stream",
+        "values": ["PCM", "PCB", "PCMB"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Biology",
+          "Computer Science"
+        ],
+        "dependsOn": "stream",
+        "optionsBy": {
+          "PCM": ["Physics", "Chemistry", "Mathematics", "Computer Science"],
+          "PCB": ["Physics", "Chemistry", "Biology"],
+          "PCMB": [
+            "Physics",
+            "Chemistry",
+            "Mathematics",
+            "Biology",
+            "Computer Science"
+          ]
+        }
+      }
+    ],
+    "parent_id": null,
+    "position": 6
+  },
+  {
+    "id": "arts",
+    "system": "indian",
+    "title": "Arts",
+    "image": "/images/arts.png",
+    "filters": [
+      {
+        "key": "year",
+        "label": "Class / Year",
+        "values": [
+          "Class 11",
+          "Class 12",
+          "1st Year",
+          "2nd Year",
+          "3rd Year",
+          "4th Year"
+        ]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "History",
+          "Geography",
+          "Political Science",
+          "Economics",
+          "Sociology",
+          "Psychology",
+          "Philosophy",
+          "English",
+          "Languages"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 7
+  },
+  {
+    "id": "engineering",
+    "system": "indian",
+    "title": "Engineering",
+    "image": "/images/engineering.png",
+    "filters": [
+      {
+        "key": "branch",
+        "label": "Branch",
+        "values": [
+          "Computer Engineering",
+          "Information Technology",
+          "Mechanical Engineering",
+          "Civil Engineering",
+          "Electrical Engineering",
+          "Electronics Engineering",
+          "Electronics & Telecommunication",
+          "AI & Machine Learning",
+          "Data Science",
+          "Chemical Engineering"
+        ]
+      },
+      {
+        "key": "year",
+        "label": "Year",
+        "values": ["1st Year", "2nd Year", "3rd Year", "4th Year"]
+      },
+      {
+        "key": "semester",
+        "label": "Semester",
+        "values": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "dependsOn": "year",
+        "optionsBy": {
+          "1st Year": ["1", "2"],
+          "2nd Year": ["3", "4"],
+          "3rd Year": ["5", "6"],
+          "4th Year": ["7", "8"]
+        }
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Engineering Mathematics",
+          "Engineering Physics",
+          "Engineering Chemistry",
+          "Programming",
+          "Engineering Drawing",
+          "Mechanics",
+          "Thermodynamics",
+          "Electrical Circuits",
+          "Digital Electronics",
+          "Data Structures",
+          "Database Systems",
+          "Structural Analysis",
+          "Fluid Mechanics"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 8
+  },
+  {
+    "id": "doctors",
+    "system": "indian",
+    "title": "Doctors & Medical Education",
+    "image": "/images/doctors.png",
+    "filters": [
+      {
+        "key": "programme",
+        "label": "Programme",
+        "values": [
+          "NEET",
+          "MBBS",
+          "BDS",
+          "BAMS",
+          "BHMS",
+          "Nursing",
+          "Pharmacy",
+          "Other Medical Courses"
+        ]
+      },
+      {
+        "key": "year",
+        "label": "Year",
+        "values": ["1st Year", "2nd Year", "3rd Year", "4th Year", "Final Year"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "Anatomy",
+          "Physiology",
+          "Biochemistry",
+          "Pathology",
+          "Pharmacology",
+          "Microbiology",
+          "Community Medicine",
+          "Medicine",
+          "Surgery",
+          "Nursing Foundations",
+          "Pharmaceutics"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 9
+  },
+  {
+    "id": "gurukul-0",
+    "system": "gurukul",
+    "title": "शास्त्र शिक्षा",
+    "image": "/images/ved.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "1.1 वैदिक शास्त्र",
+          "1.2 दर्शन शास्त्र",
+          "1.3 धर्म एवं पुराण शास्त्र",
+          "1.4 ज्योतिष शास्त्र",
+          "1.5 वास्तु शास्त्र",
+          "1.6 आयुर्वेद शास्त्र",
+          "1.7 योग एवं अध्यात्म",
+          "1.8 तंत्र शास्त्र"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 0
+  },
+  {
+    "id": "gurukul-1",
+    "system": "gurukul",
+    "title": "आत्मरक्षा शिक्षा",
+    "image": "/images/self.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "2.1 प्राचीन युद्ध विज्ञान",
+          "2.2 आधुनिक सुरक्षा प्रशिक्षण",
+          "2.3 सुरक्षा एवं रक्षा प्रणाली"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 1
+  },
+  {
+    "id": "gurukul-2",
+    "system": "gurukul",
+    "title": "Science",
+    "image": "/images/science.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "3.1 मूल विज्ञान",
+          "3.2 उन्नत विज्ञान",
+          "3.3 अनुप्रयुक्त विज्ञान"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 2
+  },
+  {
+    "id": "gurukul-3",
+    "system": "gurukul",
+    "title": "Technology",
+    "image": "/images/techno.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "4.1 Computer Technology",
+          "4.2 Software Technology",
+          "4.3 Digital Technology",
+          "4.4 Cyber Technology",
+          "4.5 Industrial Technology"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 3
+  },
+  {
+    "id": "gurukul-4",
+    "system": "gurukul",
+    "title": "Artificial Intelligence",
+    "image": "/images/ai.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "5.1 AI Foundation",
+          "5.2 Generative AI",
+          "5.3 AI Systems",
+          "5.4 Advanced AI"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 4
+  },
+  {
+    "id": "gurukul-5",
+    "system": "gurukul",
+    "title": "Robotics",
+    "image": "/images/robot.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "6.1 Robotics Foundation",
+          "6.2 Robot Building",
+          "6.3 Robotics Automation",
+          "6.4 Drone Technology"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 5
+  },
+  {
+    "id": "gurukul-6",
+    "system": "gurukul",
+    "title": "Information Technology",
+    "image": "/images/it.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "7.1 Software & Systems",
+          "7.2 Networking & Security",
+          "7.3 Digital Business"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 6
+  },
+  {
+    "id": "gurukul-7",
+    "system": "gurukul",
+    "title": "Space Education",
+    "image": "/images/space.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "8.1 Space Science",
+          "8.2 Space Technology",
+          "8.3 Future Space Systems"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 7
+  },
+  {
+    "id": "gurukul-8",
+    "system": "gurukul",
+    "title": "Skills & Livelihoods",
+    "image": "/images/techno.webp",
+    "filters": [
+      {
+        "key": "group",
+        "label": "Subcategory",
+        "values": [
+          "A. MANUFACTURING INDUSTRY",
+          "B. FOOD PROCESSING INDUSTRY",
+          "C. TEXTILE & FASHION INDUSTRY",
+          "D. TECHNICAL & REPAIRING SKILLS",
+          "E. AGRICULTURE & RURAL INDUSTRY",
+          "F. DIGITAL SERVICES",
+          "G. BUSINESS & ENTREPRENEURSHIP",
+          "H. SERVICE INDUSTRY",
+          "I. MEDIA AND CONTENT INDUSTRY",
+          "J. FUTURE TECHNOLOGY INDUSTRY"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 8
+  },
+  {
+    "id": "nepal-basic",
+    "system": "nepal",
+    "title": "Basic Education",
+    "image": "/images/science.webp",
+    "filters": [
+      {
+        "key": "medium",
+        "label": "Medium",
+        "values": ["Nepali", "English"]
+      },
+      {
+        "key": "standard",
+        "label": "Class",
+        "values": ["1", "2", "3", "4", "5", "6", "7", "8"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Nepali",
+          "English",
+          "Mathematics",
+          "Science and Technology",
+          "Social Studies",
+          "Health and Physical Education",
+          "Local Curriculum"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 0
+  },
+  {
+    "id": "nepal-secondary",
+    "system": "nepal",
+    "title": "Secondary Education",
+    "image": "/images/it.webp",
+    "filters": [
+      {
+        "key": "medium",
+        "label": "Medium",
+        "values": ["Nepali", "English"]
+      },
+      {
+        "key": "standard",
+        "label": "Class",
+        "values": ["9", "10", "11", "12"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Nepali",
+          "English",
+          "Mathematics",
+          "Science and Technology",
+          "Social Studies",
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "Computer Science",
+          "Accountancy",
+          "Economics",
+          "Business Studies"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 1
+  },
+  {
+    "id": "nepal-higher",
+    "system": "nepal",
+    "title": "Higher & Technical Education",
+    "image": "/images/techno.webp",
+    "filters": [
+      {
+        "key": "programme",
+        "label": "Programme",
+        "values": [
+          "Science",
+          "Management",
+          "Humanities",
+          "Engineering",
+          "Health Sciences",
+          "Technical Training"
+        ]
+      },
+      {
+        "key": "year",
+        "label": "Year",
+        "values": ["1st Year", "2nd Year", "3rd Year", "4th Year"]
+      },
+      {
+        "key": "subject",
+        "label": "Subject",
+        "values": [
+          "Mathematics",
+          "English",
+          "Computer Science",
+          "Economics",
+          "Accounting",
+          "Applied Science",
+          "Professional Skills"
+        ]
+      }
+    ],
+    "parent_id": null,
+    "position": 2
+  },
+  {
+    "id": "skill-journalism",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Journalism & News",
+    "image": "/images/journalism.png",
+    "position": 20,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": [
+          "Reporting",
+          "News Writing",
+          "Media Ethics",
+          "Video Journalism"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skill-leadership",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "राजनीति प्रशिक्षण",
+    "image": "/images/leadership.png",
+    "position": 21,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["लोकतंत्र", "नेतृत्व", "सामाजिक संवाद"]
+      }
+    ]
+  },
+  {
+    "id": "skill-recycling",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Recycling & Waste Management",
+    "image": "/images/recycling.png",
+    "position": 22,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Waste Segregation", "Recycling", "Composting"]
+      }
+    ]
+  },
+  {
+    "id": "skill-gaushala",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "गौशाला प्रशिक्षण",
+    "image": "/images/gaushala.png",
+    "position": 23,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["गौसेवा", "गौशाला व्यवस्थापन"]
+      }
+    ]
+  },
+  {
+    "id": "skill-sports",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Sports",
+    "image": "/images/sports.png",
+    "position": 24,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Fitness", "Team Sports", "Coaching"]
+      }
+    ]
+  },
+  {
+    "id": "skill-law",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "कायदा व सुव्यवस्था",
+    "image": "/images/law.png",
+    "position": 25,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["नागरिक जागरूकता", "सामाजिक जबाबदारी"]
+      }
+    ]
+  },
+  {
+    "id": "skill-ayurveda",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "आयुर्वेद शिक्षा",
+    "image": "/images/ayurveda.png",
+    "position": 26,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["आयुर्वेद परिचय", "औषधीय वनस्पति"]
+      }
+    ]
+  },
+  {
+    "id": "skill-nursing",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Nursing & Service",
+    "image": "/images/nursing.png",
+    "position": 27,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Care Foundations", "Community Service"]
+      }
+    ]
+  },
+  {
+    "id": "skill-home-science",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Home Science",
+    "image": "/images/home-science.png",
+    "position": 28,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Nutrition", "Home Management", "Textiles"]
+      }
+    ]
+  },
+  {
+    "id": "skill-disaster",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Disaster Management",
+    "image": "/images/disaster.png",
+    "position": 29,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Preparedness", "Community Response"]
+      }
+    ]
+  },
+  {
+    "id": "skill-water",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Water Management",
+    "image": "/images/water.png",
+    "position": 30,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Conservation", "Rainwater Harvesting"]
+      }
+    ]
+  },
+  {
+    "id": "skill-energy",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Energy Management",
+    "image": "/images/energy.png",
+    "position": 31,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Renewable Energy", "Energy Conservation"]
+      }
+    ]
+  },
+  {
+    "id": "skill-finance",
+    "parent_id": null,
+    "system": "gurukul",
+    "title": "Banking & Finance",
+    "image": "/images/finance.png",
+    "position": 32,
+    "filters": [
+      {
+        "key": "topic",
+        "label": "Topic",
+        "values": ["Financial Literacy", "Banking Basics"]
+      }
+    ]
+  }
+]

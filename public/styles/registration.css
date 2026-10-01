@@ -1,0 +1,211 @@
+/* Registration keeps the same ivory arch, maroon and gold treatment at every width. */
+.palace-signup {
+  padding: 40px 16px 32px;
+  background-position: center top;
+}
+.palace-signup .palace-login-card {
+  border: 1px solid #d5ad62;
+  box-shadow:
+    0 4px 22px #20000035,
+    inset 0 0 0 4px #fff4d7;
+}
+.palace-signup .palace-login-card form {
+  gap: 9px;
+  margin-top: 12px;
+}
+.palace-signup .signup-fields {
+  gap: 8px;
+  padding: 12px;
+}
+.palace-signup .signup-field-row {
+  gap: 9px;
+}
+.palace-signup .signup-section-title {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 15px;
+}
+.palace-signup .palace-login-card label {
+  margin: 0;
+  line-height: 1.4;
+}
+.palace-signup .palace-login-card label > input,
+.palace-signup .palace-login-card label > select {
+  margin: 3px 0 0;
+  min-height: 44px;
+  padding: 8px 10px;
+}
+.palace-signup .palace-input {
+  margin-top: 3px;
+}
+.palace-signup .palace-input input {
+  min-height: 44px;
+  margin: 0;
+}
+.palace-signup form > small {
+  color: #765d43;
+  line-height: 1.4;
+}
+.contact-verification {
+  min-width: 0;
+}
+.contact-input-row {
+  display: flex;
+  align-items: stretch;
+  gap: 7px;
+  min-width: 0;
+  margin-top: 3px;
+}
+.contact-input-row .palace-input {
+  flex: 1;
+  margin-top: 0;
+  min-width: 0;
+}
+.palace-signup .contact-input-row .button {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 8px 11px;
+  min-height: 44px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.palace-signup .contact-input-row > input {
+  flex: 1;
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+  padding: 8px 10px;
+  border: 1px solid #dacaa7;
+  border-radius: 4px;
+  background: #fff;
+  font-size: 16px;
+}
+.contact-hint {
+  display: block;
+  color: #705940;
+  font-size: 12px;
+  line-height: 1.4;
+  margin-top: 4px;
+}
+.contact-verified {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  flex: 0 0 auto;
+  color: #176447;
+  background: #edf7ed;
+  border: 1px solid #bed9ba;
+  border-radius: 5px;
+  padding: 6px 8px;
+  font:
+    700 13px Arial,
+    sans-serif;
+}
+.is-verified .palace-input {
+  border-color: #84b493;
+}
+.contact-code-panel {
+  background: #fff1cf;
+  border: 1px solid #dfc38a;
+  border-radius: 6px;
+  padding: 9px;
+  margin-top: 7px;
+}
+.contact-code-panel p {
+  margin: 0 0 6px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.contact-demo-code strong {
+  letter-spacing: 0.15em;
+  font-family: Arial, sans-serif;
+}
+.contact-error {
+  margin: 5px 0 0;
+  color: #9f180c;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.palace-signup .button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.palace-signup input:focus-visible,
+.palace-signup select:focus-visible,
+.palace-signup button:focus-visible {
+  outline: 2px solid #ae7624;
+  outline-offset: 2px;
+}
+.palace-signup .palace-input:focus-within {
+  outline: 2px solid #ae7624;
+  outline-offset: 1px;
+}
+.palace-signup .palace-input input:focus-visible {
+  outline: none;
+}
+@media (max-width: 1023px) {
+  .palace-signup .palace-motto { display: none; }
+}
+@media (max-width: 760px) {
+  .palace-signup {
+    margin: 8px 0 0;
+    padding: 26px 10px 24px;
+    border: 2px solid #b2792e;
+    background: #4d0600 url("/images/login-arch-v2.png") center top / auto 700px
+      no-repeat;
+    overflow: hidden;
+  }
+  .palace-signup .palace-login-scene {
+    display: none;
+  }
+  .palace-signup .palace-login-card {
+    width: 100%;
+    min-width: 0;
+    max-width: 560px;
+    padding: 19px 12px 20px;
+    border-radius: 100px 100px 10px 10px;
+    background: linear-gradient(#fff8e5f2, #fff8e5);
+  }
+  .palace-signup .palace-login-card .ag-crest {
+    display: block;
+    width: 76px;
+    height: 76px;
+    margin: 0 auto 10px;
+  }
+  .palace-signup .palace-login-card h2 {
+    font-size: 16px;
+    margin: 0 0 10px;
+  }
+  .palace-signup .palace-login-card h1 {
+    font-size: clamp(24px, 6.5vw, 30px);
+  }
+  .palace-signup .palace-login-card > p {
+    font-size: 13px;
+    margin: 5px 0;
+  }
+  .palace-signup .palace-sanskrit {
+    font-size: 13px;
+    margin: 8px 0;
+  }
+  .palace-signup .signup-field-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+  }
+  .palace-signup .signup-fields {
+    padding: 9px;
+  }
+  .palace-signup .palace-login-card label > input,
+  .palace-signup .palace-login-card label > select,
+  .palace-signup .palace-input input {
+    font-size: 16px;
+  }
+  .palace-signup .contact-input-row .button {
+    font-size: 13px;
+    padding: 7px 9px;
+  }
+  .palace-signup .contact-input-row .palace-input {
+    padding: 0 8px;
+    gap: 6px;
+  }
+}
